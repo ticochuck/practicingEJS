@@ -20,6 +20,9 @@ app.get('/', function(request, response) {
     people: [
       {name: 'chuck'},
       {name: 'laura'},
+      {name: 'alex'}
+      {name: 'ben'}
+      {name: 'maddie'}
     ]
   });
 });
